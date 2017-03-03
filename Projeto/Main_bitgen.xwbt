@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Lucas\cronometro\Main.ncd
+OUTFILE=C:\Users\Lucas\cronometro\Main.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=C:\Users\Lucas\cronometro
+LICENSE=WebPack
+USER_INFO=210771268_0_0_555

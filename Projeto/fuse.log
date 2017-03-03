@@ -1,0 +1,24 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/Lucas/Desktop/lucas logica/cronometro/Teste_isim_beh.exe -prj C:/Users/Lucas/Desktop/lucas logica/cronometro/Teste_beh.prj work.Teste 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Lucas/Desktop/lucas logica/cronometro/mul_display.vhd" into library work
+Parsing VHDL file "C:/Users/Lucas/Desktop/lucas logica/cronometro/cronometro.vhd" into library work
+Parsing VHDL file "C:/Users/Lucas/Desktop/lucas logica/cronometro/Teste.vhd" into library work
+Starting static elaboration
+WARNING:HDLCompiler:794 - "C:/Users/Lucas/Desktop/lucas logica/cronometro/cronometro.vhd" Line 74: Statement might not cover all choices ; 'others' clause recommended
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity mul_display [mul_display_default]
+Compiling architecture cron of entity cronometro [cronometro_default]
+Compiling architecture behavior of entity teste
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 9 VHDL Units
+Built simulation executable C:/Users/Lucas/Desktop/lucas logica/cronometro/Teste_isim_beh.exe
+Fuse Memory Usage: 32324 KB
+Fuse CPU Usage: 1187 ms
