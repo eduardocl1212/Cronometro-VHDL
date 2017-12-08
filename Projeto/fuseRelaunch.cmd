@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Lucas/Desktop/lucas logica/cronometro/Teste_isim_beh.exe" -prj "C:/Users/Lucas/Desktop/lucas logica/cronometro/Teste_beh.prj" "work.Teste" 

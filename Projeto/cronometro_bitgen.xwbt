@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=C:\Users\Lucas\Desktop\lucas logica\cronometro\cronometro.ncd
-OUTFILE=C:\Users\Lucas\Desktop\lucas logica\cronometro\cronometro.bit
-FAMILY=Spartan6
-PART=xc6slx16-3csg324
-WORKINGDIR=C:\Users\Lucas\Desktop\lucas logica\cronometro
-LICENSE=WebPack
-USER_INFO=210771268_0_0_555
